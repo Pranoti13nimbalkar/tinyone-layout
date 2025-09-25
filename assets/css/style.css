@@ -124,7 +124,7 @@
   text-transform: capitalize;
 }
 @media all and (max-width:1200px){
-     .header-section .ipad figure{
+     .header-section .ipad {
          margin-left:-1%
 }
 @media all and (max-width:992px){
