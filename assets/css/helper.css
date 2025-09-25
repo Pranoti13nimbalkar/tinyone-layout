@@ -1,0 +1,15 @@
+.pri-heading{
+    font-size: 32px;
+    font-weight: bold;
+    color: #010101;
+    margin-bottom: 25px;
+}
+ol,ul{
+    list-style: none;
+}
+.sec-heading{
+    font-size: 20px;
+    font-weight: Regular;
+    color: #313841;
+    margin-bottom: 21px;
+}
