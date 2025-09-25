@@ -124,7 +124,8 @@
   text-transform: capitalize;
 }
 @media all and (max-width:1200px){
-    
+     .header-section .ipad figure{
+         margin-left:-1%
 }
 @media all and (max-width:992px){
 .footer-section .contact-form {
