@@ -144,9 +144,7 @@
 .footer-section .footer-contact .footer-list{
     margin-bottom: 20px;
 }
-.header-section .ipad {
-    margin-left: -1px;
-}
+
 }
 @media all and (max-width:768px){
     .header-section .navbar-collapse{
