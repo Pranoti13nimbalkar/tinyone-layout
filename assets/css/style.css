@@ -101,6 +101,9 @@
     font-weight: bold;
     border-radius: 10px;
 }
+.footer-section .contact-form .contact-info{
+    margin-bottom: 70px;
+}
 .footer-section .contact-form{
     margin-bottom: 140px;
 }
