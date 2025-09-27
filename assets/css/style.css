@@ -164,7 +164,6 @@
 }
 @media all and (max-width:768px){
   .header-section, .feature-section,.footer-section{
-    padding-top: 0;
     padding-bottom: 20px;
   }
     .header-section .navbar-collapse{
